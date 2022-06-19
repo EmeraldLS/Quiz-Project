@@ -5,11 +5,11 @@ It's just a simple question and answer exercise
 
 # Open this project in your terminal and run the following command
 
-# go run main.go
+<h5>go run main.go </h5>
 
  <h1>Alternatively you can run the project this way</h1>
- # if you are on linux or Mac -> just type "./main"
+ <p>if you are on linux or Mac -> just type "./main"</p>
  
- # if you are windows p-> just type "main.exe"
+ <p>if you are windows p-> just type "main.exe"</p>
  
  
