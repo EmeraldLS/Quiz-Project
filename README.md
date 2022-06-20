@@ -10,6 +10,6 @@ It's just a simple question and answer exercise
  <h1>Alternatively you can run the project this way</h1>
  <p>if you are on linux or Mac -> just type "./main"</p>
  
- <p>if you are windows p-> just type "main.exe"</p>
+ <p>if you are windows p-> just install go on your machine as mentioned above. I use Linux so i can't build windows binary executable file.</p>
  
  
